@@ -4,7 +4,11 @@ step 1
 
 ### `'npm i' or 'npm install'`
 
-step 2
+step 2: Install json Server
+
+### `npm install json-server`
+
+step 3
 
 ### `npm start`
 Runs the app in the development mode.\
